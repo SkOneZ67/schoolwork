@@ -1,2 +1,0 @@
-# schoolwork
-WHUC_work
